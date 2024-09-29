@@ -90,7 +90,7 @@ const char* htmlContent = R"=====(
     </style>
 </head>
 <body>
-    <h1 style="color:white;" >FARAZI</h1>
+    <h1 style="color:white;" >CAR_NAME</h1>
     <div class="container">
         <button id="turboButton"  onmousedown="pressed('turbo')" onmouseup="released('turbo')" class="button" name='turbo' value='on'>Turbo</button>
         <div class="row">
